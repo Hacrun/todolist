@@ -30,3 +30,4 @@ F:\AutomationProject\todolist\bin\classes\com\example\todolist\R$style.class \
 F:\AutomationProject\todolist\bin\classes\com\example\todolist\R.class \
 F:\AutomationProject\todolist\bin\classes\com\example\todolist\ToDoItemDetailActivity.class \
 F:\AutomationProject\todolist\bin\dexedLibs\android-support-v4-b041d6c9a3196781355012791d2532ab.jar \
+F:\AutomationProject\todolist\bin\dexedLibs\emma_device-8cadae10126f04c2cb4280ce71876269.jar \
